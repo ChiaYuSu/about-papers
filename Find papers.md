@@ -7,6 +7,7 @@
 
 ### 中文
 1. [臺灣博碩士論文知識加值系統](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/ccd=JdX5YK/webmge?mode=basic)
+2. [Airiti Library 華藝線上圖書館](https://www.airitilibrary.com/)
 
 ## 下載 IEEE 論文方法
 > 由於 IEEE 大多數論文都是被鎖住的，因此可以透過以下方法解鎖取得文章
